@@ -1,5 +1,5 @@
 [
-      {
+        {
             "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/01.png",
             "URL": "https://www.calculator.net/scientific-calculator.html"
         },
@@ -16,99 +16,139 @@
             "URL": "https://www.calculator.net/random-number-generator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/05.png",
             "URL": "https://www.calculator.net/percent-error-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/06.png",
             "URL": "https://www.calculator.net/exponent-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/07.png",
             "URL": "https://www.calculator.net/binary-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/08.png",
             "URL": "https://www.calculator.net/hex-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/09.png",
             "URL": "https://www.calculator.net/half-life-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/10.png",
             "URL": "https://www.calculator.net/quadratic-formula-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/10.png",
             "URL": "https://www.calculator.net/log-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/11.png",
             "URL": "https://www.calculator.net/ratio-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/12.png",
             "URL": "https://www.calculator.net/root-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/13.png",
             "URL": "https://www.calculator.net/lcm-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/14.png",
             "URL": "https://www.calculator.net/gcf-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/15.png",
             "URL": "https://www.calculator.net/factor-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/16.png",
             "URL": "https://www.calculator.net/rounding-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/17.png",
             "URL": "https://www.calculator.net/matrix-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/18.png",
             "URL": "https://www.calculator.net/scientific-notation-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/19.png",
             "URL": "https://www.calculator.net/big-number-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/20.png",
             "URL": "https://www.calculator.net/standard-deviation-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/21.png",
             "URL": "https://www.calculator.net/number-sequence-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/22.png",
             "URL": "https://www.calculator.net/sample-size-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/23.png",
+            "URL": "https://www.calculator.net/probability-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/24.png",
+            "URL": "https://www.calculator.net/sample-size-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/25.png",
             "URL": "https://www.calculator.net/mean-median-mode-range-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/26.png",
             "URL": "https://www.calculator.net/permutation-and-combination-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/27.png",
             "URL": "https://www.calculator.net/z-score-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/28.png",
             "URL": "https://www.calculator.net/confidence-interval-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/29.png",
             "URL": "https://www.calculator.net/triangle-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/30.png",
             "URL": "https://www.calculator.net/volume-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/31.png",
             "URL": "https://www.calculator.net/slope-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/32.png",
             "URL": "https://www.calculator.net/area-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/33.png",
             "URL": "https://www.calculator.net/distance-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/34.png",
             "URL": "https://www.calculator.net/circle-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/35.png",
             "URL": "https://www.calculator.net/surface-area-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/36.png",
             "URL": "https://www.calculator.net/pythagorean-theorem-calculator.html"
         },
         {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/37.png",
             "URL": "https://www.calculator.net/right-triangle-calculator.html"
         }
   ]
