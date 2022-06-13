@@ -1,0 +1,46 @@
+[
+      {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/01.png",
+            "URL": "https://www.calculator.net/bmi-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/02.png",
+            "URL": "https://www.calculator.net/calorie-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/03.png",
+            "URL": "https://www.calculator.net/body-fat-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/04.png",
+            "URL": "https://www.calculator.net/bmr-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/05.png",
+            "URL": "https://www.calculator.net/ideal-weight-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/06.png",
+            "URL": "https://www.calculator.net/pace-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/07.png",
+            "URL": "https://www.calculator.net/army-body-fat-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/08.png",
+            "URL": "https://www.calculator.net/weight-watchers-points-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/09.png",
+            "URL": "https://www.calculator.net/lean-body-mass-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/10.png",
+            "URL": "https://www.calculator.net/healthy-weight-calculator.html"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/11.png",
+            "URL": "https://www.calculator.net/calories-burned-calculator.html"
+        }
+  ]
