@@ -1,46 +1,114 @@
 [
       {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/01.png",
-            "URL": "https://www.calculator.net/bmi-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/01.png",
+            "URL": "https://www.calculator.net/scientific-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/02.png",
-            "URL": "https://www.calculator.net/calorie-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/02.png",
+            "URL": "https://www.calculator.net/fraction-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/03.png",
-            "URL": "https://www.calculator.net/body-fat-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/03.png",
+            "URL": "https://www.calculator.net/percent-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/04.png",
-            "URL": "https://www.calculator.net/bmr-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-MathCalculators/main/04.png",
+            "URL": "https://www.calculator.net/random-number-generator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/05.png",
-            "URL": "https://www.calculator.net/ideal-weight-calculator.html"
+            "URL": "https://www.calculator.net/percent-error-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/06.png",
-            "URL": "https://www.calculator.net/pace-calculator.html"
+            "URL": "https://www.calculator.net/exponent-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/07.png",
-            "URL": "https://www.calculator.net/army-body-fat-calculator.html"
+            "URL": "https://www.calculator.net/binary-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/08.png",
-            "URL": "https://www.calculator.net/weight-watchers-points-calculator.html"
+            "URL": "https://www.calculator.net/hex-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/09.png",
-            "URL": "https://www.calculator.net/lean-body-mass-calculator.html"
+            "URL": "https://www.calculator.net/half-life-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/10.png",
-            "URL": "https://www.calculator.net/healthy-weight-calculator.html"
+            "URL": "https://www.calculator.net/quadratic-formula-calculator.html"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/11.png",
-            "URL": "https://www.calculator.net/calories-burned-calculator.html"
+            "URL": "https://www.calculator.net/log-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/ratio-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/root-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/lcm-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/gcf-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/factor-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/rounding-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/matrix-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/scientific-notation-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/big-number-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/standard-deviation-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/number-sequence-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/sample-size-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/mean-median-mode-range-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/permutation-and-combination-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/z-score-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/confidence-interval-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/triangle-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/volume-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/slope-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/area-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/distance-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/circle-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/surface-area-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/pythagorean-theorem-calculator.html"
+        },
+        {
+            "URL": "https://www.calculator.net/right-triangle-calculator.html"
         }
   ]
